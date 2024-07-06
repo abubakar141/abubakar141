@@ -1,17 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20505
-Fork on GitHub
-6287
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
+<img src="https://yt3.googleusercontent.com/YQAoxijGrFdIdWbp0KxFk3OevJqaAgc34lIxMorJlU_mjNUvwWbKVFzJzuYsOrYfqOrDHxh1nw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="image2" alighn="center" />
 
 preview
 <h1 align="center">Hi 👋, I'm Abu Bakar</h1>
